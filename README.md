@@ -28,7 +28,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,github,git,mysql,figma,nodejs,react,tailwind,vite,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,github,git,mysql,figma,nodejs,react,tailwind,vite,)](https://skillicons.dev)
 
 ![ Usama 'Sabir GitHub stats](https://github-readme-stats.vercel.app/api?username=Usama Sabir&show_icons=true&theme=dark)
 
